@@ -3,7 +3,8 @@
 
 ### API endpoint
 ```
-read :  Student view available list of equipments & manager view availabe/issued pieces of equipments     
+read :  Student view available list of equipments
+        & manager view availabe/issued pieces of equipments     
 access :  request access of the equipment
 req_access :  view access requested by employees
 return :  issue and return a equipment
