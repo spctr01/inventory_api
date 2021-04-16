@@ -22,8 +22,10 @@ docker-compose up
 after running the above command  open the link : http://localhost:5000/
 
  Examples:-
-'''
+```
 1: read (end point ):http://localhost:5000/read/1
                      http://localhost:5000/2
                      
-'''
+ [access, req_access] uses POST method and accept data as json
+```
+
