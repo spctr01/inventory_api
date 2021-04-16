@@ -27,5 +27,8 @@ after running the above command  open the link : http://localhost:5000/
                      http://localhost:5000/2
                      
  [access, req_access] uses POST method and accept data as json
+ 
+ ![alt text](https://github.com/spctr01/inventory_api/blob/main/2.jpg)
+  ![alt text](https://github.com/spctr01/inventory_api/blob/main/inv.jpg)
 ```
 
