@@ -13,13 +13,13 @@ return :  issue and return a equipment
 ```
 
 ## Installation and Usage
-download this repository  install docker and docker compose then  cd into this repo and run
+Download this repository  install docker and docker compose then  cd into this repo and run
 
 ```
 docker-compose up 
 ```
 ### Usage
-after running the above command  open the link : http://localhost:5000/
+After running the above command  open the link : http://localhost:5000/
 
  Examples:-
 ```
@@ -30,6 +30,7 @@ after running the above command  open the link : http://localhost:5000/
  
 
 ```
+In the below images Postman is used to test the api [ any other method  can be used to test the api]
 ![alt text](https://github.com/spctr01/inventory_api/blob/main/2.jpg)
 
 ---------------------------
